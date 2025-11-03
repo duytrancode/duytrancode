@@ -9,7 +9,7 @@
 <div align="center">
   <!-- Câu trích dẫn với hiệu ứng - đã sửa "me" thành "Khánh Duy" -->
   <p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Star+cannot+light+without+darkness" alt="Quote">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Sao+không+thể+sáng+nếu+không+có+bóng+tối+-+Khánh+Duy" alt="Quote">
   </p>
   
   <!-- Đếm lượt xem với badge đẹp -->
@@ -17,7 +17,7 @@
   
   <!-- Trophy với animation -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=duytrancode&row=1&column=6&theme=darkhub&margin-w=15&margin-h=15&no-frame=true&animation=twinkling" alt="duytrancode" />
+    <img src="https://github-profile-trophy.vercel.app/?username=duytrancode&row=1&column=6&theme=onedark&margin-w=15&margin-h=15&no-frame=true&title=Stars,Followers,Commits,Repositories,Issues,PullRequest,Reviews" alt="duytrancode" />
   </a>
 </div>
 
@@ -93,12 +93,6 @@
       border-color: #00F7FF;
     }
   </style>
-</div>
-          <!-- Card trống để cân bằng layout -->
-        </td>
-      </tr>
-    </table>
-  </div>
 </div>
 
 ---
