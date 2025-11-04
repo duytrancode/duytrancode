@@ -160,54 +160,9 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=duytrancode&theme=dark&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=00F7FF" alt="duytrancode" />
   </p>
   
-  <!-- Most Used Languages tùy chỉnh -->
-  <div style="background-color:#0D1117; border-radius:10px; padding:20px; margin:10px; border: 1px solid #30363D; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-    <h4 style="color:#00F7FF; text-align:center; margin-top:0;">Most Used Languages</h4>
-    
-    <!-- Python -->
-    <div style="margin-bottom:15px;">
-      <div style="display:flex; justify-content:space-between; margin-bottom:5px;">
-        <span style="color:#f0f6fc;">Python</span>
-        <span style="color:#f0f6fc;">56.47%</span>
-      </div>
-      <div style="height:10px; background-color:#21262D; border-radius:5px; overflow:hidden;">
-        <div style="height:100%; width:56.47%; background-color:#3776AB; border-radius:5px;"></div>
-      </div>
-    </div>
-    
-    <!-- Java -->
-    <div style="margin-bottom:15px;">
-      <div style="display:flex; justify-content:space-between; margin-bottom:5px;">
-        <span style="color:#f0f6fc;">Java</span>
-        <span style="color:#f0f6fc;">25.16%</span>
-      </div>
-      <div style="height:10px; background-color:#21262D; border-radius:5px; overflow:hidden;">
-        <div style="height:100%; width:25.16%; background-color:#007396; border-radius:5px;"></div>
-      </div>
-    </div>
-    
-    <!-- C++ -->
-    <div style="margin-bottom:15px;">
-      <div style="display:flex; justify-content:space-between; margin-bottom:5px;">
-        <span style="color:#f0f6fc;">C++</span>
-        <span style="color:#f0f6fc;">14.49%</span>
-      </div>
-      <div style="height:10px; background-color:#21262D; border-radius:5px; overflow:hidden;">
-        <div style="height:100%; width:14.49%; background-color:#00599C; border-radius:5px;"></div>
-      </div>
-    </div>
-    
-    <!-- HTML -->
-    <div style="margin-bottom:15px;">
-      <div style="display:flex; justify-content:space-between; margin-bottom:5px;">
-        <span style="color:#f0f6fc;">HTML</span>
-        <span style="color:#f0f6fc;">3.88%</span>
-      </div>
-      <div style="height:10px; background-color:#21262D; border-radius:5px; overflow:hidden;">
-        <div style="height:100%; width:3.88%; background-color:#E34C26; border-radius:5px;"></div>
-      </div>
-    </div>
-  </div>
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=duytrancode&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F7FF" alt="duytrancode" />
+  </p>
   
   <!-- Activity graph -->
   <p>
