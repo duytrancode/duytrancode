@@ -15,25 +15,6 @@
   <!-- Đếm lượt xem với badge đẹp -->
   <img src="https://komarev.com/ghpvc/?username=duytrancode&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="duytrancode" />
   
-<!-- Container cho Trophy -->
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; padding: 20px; background: #0d1117; border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.5);">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" style="display: inline-block;">
-    <img 
-      src="https://github-profile-trophy.vercel.app/?username=duytrancode&row=1&column=6&theme=darkhub&margin-w=15&margin-h=15&no-frame=true&animation=twinkling" 
-      alt="duytrancode" 
-      style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); transition: transform 0.3s ease, box-shadow 0.3s ease;"
-    />
-  </a>
-</div>
-
-<!-- Hover effect CSS -->
-<style>
-  div a img:hover {
-    transform: scale(1.1);
-    box-shadow: 0 8px 25px rgba(0,0,0,0.5);
-  }
-</style>
-
 ---
 
 <div align="center">
